@@ -551,6 +551,7 @@ footer {
   /* HEADER */
   .header-left a {
     display: block;
+    font-size: 12px;
   }
 
   /* FOOTER */
